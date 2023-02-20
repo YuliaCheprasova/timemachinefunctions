@@ -21,4 +21,4 @@ def request(self, who, where, when):
 
 
 def result(self):
-    pass
+    print('Отправление произошло успешно')
